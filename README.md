@@ -12,4 +12,4 @@ tbd
 
 ## Reporting Bugs
 
-Found a mistake? File a [GitHub issue](https://github.com/your-org/your-repo/issues) to report bugs or request features.
+Found a mistake? File a [GitHub issue](https://github.com/bajudev/violin-repertoire/issues) to report bugs or request features.
